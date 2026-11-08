@@ -1,7 +1,7 @@
 
 <div align="center">
   <img
-    src="./assets/assets/Deal Hormat GIF.gif"
+    src="./assets/Deal Hormat GIF.gif"
     alt="DRYN-23 3D Gundam Animation"
     width="100%"
   />
