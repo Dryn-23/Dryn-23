@@ -3,7 +3,7 @@
   <img
     src="./assets/Deal Hormat GIF.gif"
     alt="DRYN-23 3D Gundam Animation"
-    width="100%"
+    width="70%"
   />
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:102b14,100:39FF14&height=220&section=header&text=DRIYAHN.EXE&fontSize=54&fontColor=39FF14&animation=fadeIn&fontAlignY=35&desc=PLAYER%20ONE%20%7C%20DEVELOPER%20%7C%20BUG%20SUMMONER&descAlignY=57&descSize=16" width="100%" alt="Driyahn profile header"/>
 
