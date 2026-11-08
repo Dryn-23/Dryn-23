@@ -15,8 +15,8 @@
 <img src="https://img.shields.io/badge/CLASS-Bug%20Summoner-FF004C?style=for-the-badge&labelColor=050505" alt="Class"/>
 <img src="https://img.shields.io/badge/REGION-PHILIPPINES-00E5FF?style=for-the-badge&labelColor=050505" alt="Region"/>
 
-<br/><br/> --> -->
+<br/><br/> -->
 <!-- 
-**`[ NEW GAME ]`** &nbsp; **`[ CONTINUE ]`** &nbsp; **`[ OPTIONS ]`** &nbsp; **`[ EXIT: DISABLED ]`** --> -->
+**`[ NEW GAME ]`** &nbsp; **`[ CONTINUE ]`** &nbsp; **`[ OPTIONS ]`** &nbsp; **`[ EXIT: DISABLED ]`** -->
 
 </div>
